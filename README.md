@@ -1,4 +1,4 @@
-### Hi, I'm Dorcas Bamisile 👋
+### Hello, I'm Dorcas Bamisile 👋
 
 <!--
 **Dorcas-BD/Dorcas-BD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
