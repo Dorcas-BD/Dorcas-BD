@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dorcas Bamisile</h1>
 <h3 align="center">A Software Engineer from Nigeria</h3>
 
+- 👯 I’m looking to collaborate on **any web related open source projects**
+
 - 👨‍💻 All of my projects are available at [dorcasbamisile.netlify.app](dorcasbamisile.netlify.app)
 
-- 💬 Ask me anything about **Javascript**
+- 💬 Ask me anything about **Javascript/Python/Solidity**
 
 - 📫 How to reach me **bamisiledorcas@gmail.com**
 
@@ -18,7 +20,7 @@
 <a href="https://instagram.com/dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dorcas_bd" height="30" width="40" /></a>
 <a href="https://hashnode.com/@dorcasbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dorcasbd" height="30" width="40" /></a>
 <a href="https://medium.com/@dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dorcas_bd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dorcas bamisile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dorcas bamisile" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dorcas_bd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@bamisiledorcas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bamisiledorcas" height="30" width="40" /></a>
 </p>
 
