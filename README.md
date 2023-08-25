@@ -13,15 +13,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/dorcas-bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dorcasbd" height="30" width="40" /></a>
-<a href="https://dev.to/@dorcasbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dorcasbd" height="30" width="40" /></a>
-<a href="https://twitter.com/dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dorcas_bd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dorcasbamisile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorcasbamisile" height="30" width="40" /></a>
-<a href="https://instagram.com/dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dorcas_bd" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dorcasbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dorcasbd" height="30" width="40" /></a>
-<a href="https://medium.com/@dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dorcas_bd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dorcas_bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dorcas_bd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dorcasbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bamisiledorcas" height="30" width="40" /></a>
+<a href="https://codepen.io/dorcas-bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dorcasbd" height="30" width="40" /></a>
+<a href="https://dev.to/@dorcasbd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dorcasbd" height="30" width="40" /></a>
+<a href="https://twitter.com/dorcas_bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dorcas_bd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dorcasbamisile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorcasbamisile" height="30" width="40" /></a>
+<a href="https://instagram.com/dorcas_bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dorcas_bd" height="30" width="40" /></a>
+<a href="https://hashnode.com/@dorcasbd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dorcasbd" height="30" width="40" /></a>
+<a href="https://medium.com/@dorcas_bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dorcas_bd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dorcas_bd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dorcas_bd" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dorcasbd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bamisiledorcas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
