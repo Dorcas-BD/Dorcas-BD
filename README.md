@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dorcas Bamisile</h1>
 <h3 align="center">A Software Engineer from Nigeria</h3>
 
-- 👯 I’m looking to collaborate on **any web related open source projects**
+- 👯 I am seeking opportunities to contribute to **open source projects related to software engineering**
 
-- 👨‍💻 All of my projects are available at [dorcasbamisile.netlify.app](dorcasbamisile.netlify.app)
+- 👨‍💻 All of my projects are available at [my portfolio](dorcasbamisile.netlify.app)
 
 - 💬 Ask me anything about **Javascript/Python/Solidity**
 
