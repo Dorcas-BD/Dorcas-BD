@@ -3,7 +3,7 @@
 
 - 👯 I am seeking opportunities to contribute to **open source projects related to software engineering**
 
-- 👨‍💻 All of my projects are available in [my portfolio](dorcasbamisile.netlify.app)
+- 👨‍💻 All of my projects are available in [my portfolio](https://dorcasbamisile.netlify.app)
 
 - 💬 Ask me anything about **Javascript/Python/Solidity**
 
